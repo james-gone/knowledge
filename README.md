@@ -1,4 +1,4 @@
-# knowledge
+# [knowledge](https://github.com/james-gone/knowledge/wiki)
 james gone knowledge record and share.
 Welcome to the james gone's knowledge wiki!
 
